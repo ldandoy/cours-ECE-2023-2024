@@ -32,3 +32,9 @@ On doit pouvoir noter et liker le mot du jour
 ## Notation
 
 Tout au long du projet, les notes seront mise au faire et a mesure de l'avancement et de l'implication des chacuns.
+
+## Lien utils
+
+- [Création d'un blog symfony](https://www.youtube.com/watch?v=koNDs1s8GnY)
+- [Ma chaine](https://www.youtube.com/@Overconsulting)
+- [Kit démarrage docker](https://github.com/ldandoy/sf-starter)

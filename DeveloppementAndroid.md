@@ -29,3 +29,8 @@ Le sujet est libre mais soumis à validation. Il faut simplement réspecter les 
 ## Notation
 
 Tout au long du projet, les notes seront mise au faire et a mesure de l'avancement et de l'implication des chacuns.
+
+## Lien utils
+
+- [Cours de Java](https://www.youtube.com/watch?v=b1wNTkUlbHc)
+- [Documentation officiel](https://developer.android.com/docs)
