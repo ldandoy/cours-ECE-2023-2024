@@ -5,11 +5,6 @@
 Découvrir les étapes pour créer un service web, souvent basé sur une API REST. Découverte de la création de route, de controller. Ils sera basé sur la stack Mysql, Python et FastAPI (optionnel).
 Découvert de [rapid API](https://rapidapi.com/)
 
-## Projet à réaliser
-
-Sujet libre.
-Création de l'API
-
 ## Compétence à obtenir
 
 - Découvert de l'envrionnement Python et du framework FastAPI
