@@ -9,6 +9,7 @@ Découvert de [rapid API](https://rapidapi.com/)
 
 - Découvert de l'envrionnement Python et du framework FastAPI
 - Connexion et utilisation d'une base de donnée (Mysql)
+- Comprendre la notion de route
 - Faire un CRUD au niveau de ces données
 
 ## Notation
