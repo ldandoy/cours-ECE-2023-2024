@@ -18,4 +18,6 @@ Tout au long du projet, les notes seront mise au faire et a mesure de l'avanceme
 
 ## Projet
 
-Créer une API, qui permet de gérer des dictionnaires (Morse, Numérique, Binaire...) Et bien sur de traduire un mot avec un des dictionnaires que l'on a préalablement enregistré !
+Créer une API, qui permet de gérer des dictionnaires (Morse, Numérique, Binaire...) 
+
+Et bien sur une route pour traduire un mot avec un les dictionnaires que l'on a préalablement enregistré !
