@@ -46,7 +46,7 @@ Les intervenants voient les interventions qui leur sont attribuer et peuvent mod
 
 Les standardistes peuvent créer, modifier, annuler et/ou cloturer des interventions, mais uniquement les leurs. Bien sûr ils ont aussi la possibilité d'ajouter des commentaires. Par contre ils peuvent voir toute les interventions et tous les clients.
 
-Un intervention se passe chez un client et est effectué par un intervenant à une date donnée. Elle ont un status de suivit et un degré d'urgence. On peut leur ajouter des commentaires afin de donnér plus d'informations.
+Un intervention se passe chez un client et est effectué par un ou plusieurs intervenants à une date donnée. Elle ont un status de suivit et un degré d'urgence. On peut leur ajouter des commentaires afin de donnér plus d'informations.
 
 Les intervenants peuvent modifier la liste des degré d'urgence et les status de suivit des interventions.
 
