@@ -8,9 +8,8 @@ Durée: du 15/01/2024  au 22/03/2024
 
 ## Compétence à obtenir
 
-- Découvert de l'envrionnement Python et du framework FastAPI
+- Découvert de l'envrionnement PHP
 - Connexion et utilisation d'une base de donnée (Mysql)
-- Comprendre la notion de route
 - Faire un CRUD au niveau de ces données
 
 ## Notation
@@ -23,11 +22,11 @@ Tout au long du projet, les notes seront mise au faire et a mesure de l'avanceme
 
 ## Le projet
 
-Développement d'un outils de gestion d'intervention pour la société AccordEnergie.
+Développement d'un outils de gestion d'intervention pour la société AccordEnergie (Fictive).
 
 La personnes devra se connecter pour avoir accès au service.
 
-Il y a trois types de rôle qui peuvent utiliser l'application:
+Il y a quatre types de rôle qui peuvent utiliser l'application:
 - Les standardistes
 - Les intervenants
 - Les clients
@@ -41,4 +40,4 @@ Les intervenants voient les interventions qui leur sont attribuer et peuvent mod
 
 Les standardistes peuvent créer, modifier, annuler et/ou cloturer des interventions, mais uniquement les leurs. Bien sûr ils ont aussi la possibilité d'ajouter des commentaires
 
-Un intervention se passe chez un client et est effectué par un intervenant. Elle ont un status de suivit et un degrée d'urgence. On peut leur ajouter des commentaires afin de donnér plus d'information.
+Un intervention se passe chez un client et est effectué par un intervenant. Elle ont un status de suivit et un degrée d'urgence. On peut leur ajouter des commentaires afin de donnér plus d'information
