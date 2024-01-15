@@ -41,3 +41,5 @@ Les intervenants voient les interventions qui leur sont attribuer et peuvent mod
 Les standardistes peuvent créer, modifier, annuler et/ou cloturer des interventions, mais uniquement les leurs. Bien sûr ils ont aussi la possibilité d'ajouter des commentaires
 
 Un intervention se passe chez un client et est effectué par un intervenant. Elle ont un status de suivit et un degrée d'urgence. On peut leur ajouter des commentaires afin de donnér plus d'information
+
+On doit pouvoir order les tableaux en fonction de la case sur laquelle on clique (Par exemple si on clique sur les noms, la liste s'affiche ordonnée de A à Z et si on reclique dessus elle s'ordonne de Z à A)
