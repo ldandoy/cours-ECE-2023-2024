@@ -28,7 +28,7 @@ Tout au long du projet, les notes seront mise au faire et a mesure de l'avanceme
 
 Développement d'un outils de gestion d'intervention pour la société AccordEnergie (Fictive).
 
-La personnes devra se connecter pour avoir accès au service.
+La personne devra se connecter pour avoir accès au service.
 
 Il y a quatre types de rôle qui peuvent utiliser l'application:
 - Les standardistes
