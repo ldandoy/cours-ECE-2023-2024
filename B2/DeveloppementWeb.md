@@ -1,4 +1,4 @@
-# Développement Service Web
+# Développement Web PHP
 
 ## Principe du cours
 
