@@ -40,11 +40,11 @@ Les admins ont accès à tout et peuvent modifier les infos dans les listes (ré
 
 Tout le monde peux créer un compte qui est de type client par défaut. Les admins peuvent changer le type de compte d'un utilisateur.
 
-Les clients voient l'état d'avancement de leurs interventions, et peuvent ajouter des infos sous forme de commentaire Ils ont bien sûr accès à leurs anciennes interventions
+Les clients voient l'état d'avancement de leurs interventions, et peuvent ajouter des infos sous forme de commentaire. Ils ont bien sûr accès à leurs anciennes interventions
 
 Les intervenants voient les interventions qui leur sont attribuer et peuvent modifier les status, et laisser des commentaires
 
-Les standardistes peuvent créer, modifier, annuler et/ou cloturer des interventions, mais uniquement les leurs. Bien sûr ils ont aussi la possibilité d'ajouter des commentaires
+Les standardistes peuvent créer, modifier, annuler et/ou cloturer des interventions, mais uniquement les leurs. Bien sûr ils ont aussi la possibilité d'ajouter des commentaires. Par contre ils peuvent voir toute les interventions et tous les clients.
 
 Un intervention se passe chez un client et est effectué par un intervenant. Elle ont un status de suivit et un degrée d'urgence. On peut leur ajouter des commentaires afin de donnér plus d'information
 
