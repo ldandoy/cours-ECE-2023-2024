@@ -42,12 +42,12 @@ Tout le monde peux créer un compte qui est de type client par défaut. Les admi
 
 Les clients voient l'état d'avancement de leurs interventions, et peuvent ajouter des infos sous forme de commentaire. Ils ont bien sûr accès à leurs anciennes interventions
 
-Les intervenants voient les interventions qui leur sont attribuer et peuvent modifier les status, et laisser des commentaires
+Les intervenants voient les interventions qui leur sont attribuer et peuvent modifier les status, et laisser des commentaires, et modifier le status
 
 Les standardistes peuvent créer, modifier, annuler et/ou cloturer des interventions, mais uniquement les leurs. Bien sûr ils ont aussi la possibilité d'ajouter des commentaires. Par contre ils peuvent voir toute les interventions et tous les clients.
 
 Un intervention se passe chez un client et est effectué par un ou plusieurs intervenants à une date donnée. Elle ont un status de suivit et un degré d'urgence. On peut leur ajouter des commentaires afin de donnér plus d'informations.
 
-Les intervenants peuvent modifier la liste des degré d'urgence et les status de suivit des interventions.
+Les admins peuvent modifier la liste des degré d'urgence et les status de suivit des interventions.
 
 On doit pouvoir order les tableaux en fonction de la case sur laquelle on clique (Par exemple si on clique sur les noms, la liste s'affiche ordonnée de A à Z et si on reclique dessus elle s'ordonne de Z à A)
