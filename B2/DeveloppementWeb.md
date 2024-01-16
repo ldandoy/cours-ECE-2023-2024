@@ -3,7 +3,7 @@
 ## Principe du cours
 
 Découvrir les étapes pour créer un outils de gestion en PHP.
-Création des maquettes, réalisation d'un cahier des charges, réalisation d'un diagramme de gantt.
+Création des maquettes, réalisation d'un schema de base de données (MCD), réalisation d'un diagramme de gantt.
 Durée: du 15/01/2024  au 22/03/2024
 
 ## Compétence à obtenir
