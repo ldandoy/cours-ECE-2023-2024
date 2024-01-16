@@ -42,7 +42,7 @@ Tout le monde peux créer un compte qui est de type client par défaut. Les admi
 
 Les clients voient l'état d'avancement de leurs interventions, et peuvent ajouter des infos sous forme de commentaire. Ils ont bien sûr accès à leurs anciennes interventions
 
-Les intervenants voient les interventions qui leur sont attribuer et peuvent modifier les status, et laisser des commentaires, et modifier le status
+Les intervenants voient les interventions qui leur sont attribuer et peuvent modifier les status, et laisser des commentaires.
 
 Les standardistes peuvent créer, modifier, annuler et/ou cloturer des interventions, mais uniquement les leurs. Bien sûr ils ont aussi la possibilité d'ajouter des commentaires. Par contre ils peuvent voir toute les interventions et tous les clients.
 
