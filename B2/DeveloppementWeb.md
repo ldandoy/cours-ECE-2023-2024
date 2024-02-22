@@ -8,9 +8,11 @@ Durée: du 15/01/2024  au 22/03/2024
 
 ## Compétence à obtenir
 
-- Découvert de l'envrionnement PHP
+- Découvert de l’environnement PHP
 - Connexion et utilisation d'une base de donnée (Mysql)
 - Faire un CRUD au niveau de ces données
+- Utiliser le composant TWIG pour rendre les vues
+- Utiliser des classes PHP pour rendre l’application modulable
 
 ## Notation
 
