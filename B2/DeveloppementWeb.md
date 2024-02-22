@@ -14,9 +14,9 @@ Durée: du 15/01/2024  au 22/03/2024
 
 ## Notation
 
-Tout au long du projet, les notes seront mise au faire et a mesure de l'avancement et de l'implication des chacuns. Il y aura trois présentations:
+Tout au long du projet, les notes seront mise au faire et a mesure de l'avancement et de l'implication de chacun. Il y aura trois présentations:
 
-1/ En semaine 4 où seront noté les maquettes, les schemats de base de données et le planning.
+1/ En semaine 4 où seront noté les maquettes, les schémas de base de données et le planning.
 
 2/ En semaine 6 pour valider la partie authentification et accès au service (travail fait ensemble).
 
